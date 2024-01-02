@@ -1,0 +1,8 @@
+Error: Could not find a part of the path 'C:\Users\gowtham.s\Code_ProjectDocument\Code_ProjectDocument\services\CallDataWindowsService\CallDataWindowsService\bin\Debug\Logs\2141342143.txt'.
+Service is stopped at 27-12-2023 18:04:52
+Service is started at 27-12-2023 18:07:41
+Service is stopped at 27-12-2023 18:09:21
+Service is started at 27-12-2023 18:10:16
+Service is stopped at 27-12-2023 18:12:17
+Service is started at 27-12-2023 18:14:22
+Service is stopped at 27-12-2023 18:14:43

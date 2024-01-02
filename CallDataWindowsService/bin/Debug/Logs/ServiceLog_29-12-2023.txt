@@ -1,0 +1,67 @@
+Service is started at 29-12-2023 11:12:43
+Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Service is stopped at 29-12-2023 11:14:35
+Service is started at 29-12-2023 13:11:09
+Service is stopped at 29-12-2023 13:11:44
+Service is started at 29-12-2023 14:14:45
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 14:19:20
+Service is started at 29-12-2023 14:19:21
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 14:24:37
+Service is started at 29-12-2023 14:24:39
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 14:26:18
+Service is started at 29-12-2023 14:40:23
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 14:54:25
+Service is started at 29-12-2023 14:55:51
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 14:58:11
+Service is started at 29-12-2023 15:00:55
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 15:10:47
+Service is started at 29-12-2023 15:15:39
+Error: ORA-00904: "TESTUSERCALLDATA": invalid identifier
+Service is stopped at 29-12-2023 15:17:26
+Service is started at 29-12-2023 15:26:54
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 15:28:46
+Service is started at 29-12-2023 15:29:35
+Error: ORA-00904: "TESTUSERCALLDATA": invalid identifier
+Error: ORA-00904: "TESTUSERCALLDATA": invalid identifier
+Error: ORA-00904: "TESTUSERCALLDATA": invalid identifier
+Service is stopped at 29-12-2023 15:32:52
+Service is started at 29-12-2023 15:34:28
+Error: ORA-00942: table or view does not exist
+Error: ORA-00942: table or view does not exist
+Service is stopped at 29-12-2023 15:37:14
